@@ -143,6 +143,7 @@ img {
 .stories{
     margin-top: 100px;
     display: flex;
+    text-align: left;
 }
 
 .stories img{
@@ -163,11 +164,11 @@ img {
 
 .stories h2{
     position: relative;
-    left: 25px;
+    left: 100px;
 }
 
 .stories p{
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 
 .newsletter{
